@@ -1,0 +1,116 @@
+
+.margin-10 {
+    margin: 10px;
+}
+
+.margin-bottom-10 {
+    margin-bottom: 10px;
+}
+
+.padding-10 {
+    padding: 10px
+}
+
+.flex {
+    display: flex;
+}
+
+.display-inline {
+    display: inline; 
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.h-44 {
+    height: 44px;
+}
+
+.w-350 {
+    width: 350px;
+}
+
+.h-240 {
+    height: 240px;
+}
+
+.font-size-16 {
+    font-size: 16px;
+}
+
+
+
+.w-100 {
+    width: 100%;
+}
+
+.w-90 {
+  width: 90%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.border {
+    border: 1px solid #000;
+}
+
+.color-gray {
+    color: #aaa;
+}
+
+.hidden {
+  display: none;
+}
+
+.click-forbid {
+    cursor: not-allowed;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.line-h-44 {
+    line-height: 44px;
+}
+
+.button {
+    width: 44px;
+    background-color: white;
+}
+
+.button:hover {
+    background-color: #e6e6e6;
+}
+
+.day {
+    width: 50px;
+    height: 36px;
+}
+
+.day:hover {
+    background-color: #e6e6e6;
+}
+
+.today{
+    background-color: #ffff76;
+}
+
+.today.active {
+    background-color: #ffff76;
+}
+
+.non-current-month {
+    color: #757575;
+}
+
+.active{
+    background-color: #006edc;
+}
